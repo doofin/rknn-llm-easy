@@ -4,7 +4,7 @@
 #ifdef __cplusplus
 extern "C" {
 #endif
-
+#include<cstdint>
 /**
  * @typedef LLMHandle
  * @brief A handle used to manage and interact with the large language model.
